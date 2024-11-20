@@ -1,0 +1,33 @@
+.feature{
+    text-align: center;
+    color: black;
+}  
+h1{
+    text-align: center;
+    color: black;
+}
+.about-organization{
+    border: 1px solid black;
+    margin: 30px 4px 30px 4px;
+    padding-left: 4px;
+    border-radius: 8px;
+    background-color:#f1c792;
+}
+.organization-mission{
+    border: 1px solid black;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-left: 4px;
+    border-radius: 8px;
+    background-color:#f1c792;
+}
+.contact-details{
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-left: 4px;
+    margin-right: 4px;
+    padding-left: 4px;
+    border-radius: 8px;
+    background-color:#f1c792;
+}
+
